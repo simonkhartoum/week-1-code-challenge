@@ -30,6 +30,20 @@ For example, if the speed is 80, it should print: “Points: 2”. If the driver
 1. speedread function  determines the speed limit.
 2. declaring the variable speed.
 3. speed prompt.
-4. the code block -using **if, else and else if to execute the speed conditions**.
-5. console.log is used for the output.
+4. the code block -using *if, else and else if to execute the speed conditions*.
    
+
+
+QUESTION 3
+
+Challenge 3: Net Salary Calculator (Toy Problem)
+
+
+Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary.
+   1. function netSalary determines the final individual's salary.
+   2. promting the user for basic salary and their benefits.
+   3. declaring variables.
+   4. putting conditions for NHIF deduction in place.
+   5. calculating all nssf deductions.
+   6. calculating the  payee (i.e. Tax).
+   7. the final net salary is calulated.
